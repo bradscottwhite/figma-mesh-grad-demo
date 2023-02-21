@@ -1,7 +1,7 @@
 {
   "name": "grad-figma-test",
-  ""homepage": "https://www.bradscottwhite.github.io/grad-figma-test",
-  ""version": "0.1.0",
+  "hompage": "https://www.bradscottwhite.github.io/grad-figma-test",
+  "verson": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
